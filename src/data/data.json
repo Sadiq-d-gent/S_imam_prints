@@ -68,37 +68,37 @@ Based in Kano, Nigeria, our mission is to make custom printing accessible, fast,
     }
   ],
   "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
+  {
+    "icon": "fa fa-print",
+    "name": "Screen Printing",
+    "text": "High-quality screen printing for t-shirts, uniforms, and promotional items — perfect for bulk orders with sharp designs."
+  },
+  {
+    "icon": "fa fa-fire",
+    "name": "DTF (Direct to Film)",
+    "text": "Get vibrant and durable prints with our Direct-to-Film service, suitable for detailed graphics on any fabric type."
+  },
+  {
+    "icon": "fa fa-coffee",
+    "name": "Mug Printing",
+    "text": "Personalized mug printing for birthdays, brands, or giveaways — make every sip memorable."
+  },
+  {
+    "icon": "fa fa-tag",
+    "name": "Branding & Packaging",
+    "text": "Boost your business identity with custom packaging, branded boxes, stickers, and tags that stand out."
+  },
+  {
+    "icon": "fa fa-tint",
+    "name": "Sublimation Printing",
+    "text": "Full-color sublimation printing on fabrics and items — long-lasting and washable with no cracking or fading."
+  },
+  {
+    "icon": "fa fa-gift",
+    "name": "Corporate Gifting",
+    "text": "Custom gift items for your clients or staff — mugs, tees, key holders, and branded kits to make a lasting impression."
+  }
+],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
