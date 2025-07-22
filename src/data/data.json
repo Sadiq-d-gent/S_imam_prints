@@ -1,68 +1,68 @@
 {
   "Header": {
-    "title": "S imam",
+    "title": "S imam ~prints",
     "paragraph": "From screen printing to DTF, custom mugs to branding services — we deliver premium quality at affordable prices."
   },
   "About": {
-    "paragraph": "We're passionate about delivering top-notch print services with a modern touch. Based in Kano, Nigeria, our mission is to make custom printing accessible, fast, and stunning. Whether you're a business, a brand, or an individual — we’ve got you covered!",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
-  },
+  "paragraph": "At Imam Prints, we’re passionate about delivering premium-quality printing with a modern edge. Proudly based in Kano, Nigeria, we specialize in fast, affordable, and eye-catching custom prints for individuals, businesses, and events. From design to delivery — we’ve got you covered.",
+  "Why": [
+    "High-quality, vibrant prints",
+    "Fast turnaround and delivery",
+    "Affordable custom solutions",
+    "Modern equipment & technology"
+  ],
+  "Why2": [
+    "Trusted by brands and individuals",
+    "Creative design support available",
+    "Locally owned and operated",
+    "Wide range of print products"
+  ]
+},
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "dft printing",
+      "largeImage": "img/portfolio/dft-lg.jpg",
+      "smallImage": "img/portfolio/dtf-sml.jpg"
+    },
+    {
+      "title": "screen printing",
+      "largeImage": "img/portfolio/sp-lg.jpg",
+      "smallImage": "img/portfolio/sp-sml.jpg"
+    },
+    {
+      "title": "sublimation printing",
+      "largeImage": "img/portfolio/sublime-lg.jpg",
+      "smallImage": "img/portfolio/sablime-sml.jpg"
+    },
+    {
+      "title": "flyer Design",
+      "largeImage": "img/portfolio/flyer-lg.jpg",
+      "smallImage": "img/portfolio/flyer-sml.jpg"
+    },
+    {
+      "title": "Cup mockup print",
+      "largeImage": "img/portfolio/cupm-lg.jpg",
+      "smallImage": "img/portfolio/cupm-sml.jpg"
+    },
+    {
+      "title": "hard cover memo",
+      "largeImage": "img/portfolio/hc-lg.jpg",
+      "smallImage": "img/portfolio/hc-sml.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "img/portfolio/jercy-lg.jpg",
+      "smallImage": "img/portfolio/jercy-sml.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "img/portfolio/bc-lg.jpg",
+      "smallImage": "img/portfolio/bc-sml.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "largeImage": "img/portfolio/bd-lg.jpg",
+      "smallImage": "img/portfolio/bg-sml.jpg"
     }
   ],
   "Services": [
@@ -98,52 +98,42 @@
   }
 ],
   "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
+  {
+    "image": "img/testimonials/aisha.jpg",
+    "name": "Aisha Abdullahi",
+    "text": "Their designs are so clean and professional. I was impressed with the delivery speed too!"
+  },
+  {
+    "image": "img/testimonials/musa.jpg",
+    "name": "Musa Usman",
+    "text": "Sun kammala min odar t-shirt da poster cikin lokaci. Na ji dadin sabis ɗin su sosai."
+  },
+  {
+    "image": "img/testimonials/fatima.jpg",
+    "name": "Fatima Sani",
+    "text": "The quality of the flyers I received was top-notch. Definitely recommending to my friends!"
+  },
+  {
+    "image": "img/testimonials/abdul.jpg",
+    "name": "Abdullahi Garba",
+    "text": "Na buga calendar da invitation cards, kuma duk sun zo cikin tsari da kyau."
+  }
+],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "S-Imam",
+      "job": "CEO"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Mahmud Kabir",
+      "job": "Graphic Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Sadiq Ahmad",
+      "job": "Senior Designer/ Developer"
     },
     {
       "img": "img/team/04.jpg",
@@ -152,33 +142,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Na'ibawa Layin Dan Hassan, Zaria Road. Kano",
+    "phone": "08132694876/0",
+    "email": "sadiqahmadelif01@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
+  {
+    "icon": "fa fa-comments-o",
+    "title": "Responsive Support",
+    "text": "We offer quick and helpful customer service to ensure your printing needs are met without delay."
+  },
+  {
+    "icon": "fa fa-bullhorn",
+    "title": "High-Quality Prints",
+    "text": "Our modern equipment delivers sharp, vibrant, and durable prints for all kinds of materials."
+  },
+  {
+    "icon": "fa fa-group",
+    "title": "Experienced Team",
+    "text": "Our skilled professionals work closely with you to bring your ideas to life, exactly how you want them."
+  },
+  {
+    "icon": "fa fa-magic",
+    "title": "Custom Finishing",
+    "text": "We provide special finishing options like lamination, cutting, folding, and more to give your prints a unique edge."
+  }
+]
 }

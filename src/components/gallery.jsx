@@ -8,8 +8,8 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            From custom T-shirts and mugs to banners, flyers, stickers, and business cards - our gallery gives you a glimpse of the wide range of creative print solutions we offer
+            . We bring your ideas to life with quality prints that stand our.
           </p>
         </div>
         <div className="row">
